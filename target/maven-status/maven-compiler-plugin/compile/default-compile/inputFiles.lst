@@ -1,0 +1,15 @@
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/executor/LockType.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/executor/MyWorker.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/executor/StorageTask.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/executor/TaskExecutor.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/executor/ThreadPool.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/readerPriority/ReaderRP.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/readerPriority/ReaderWriterSharedVars.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/readerPriority/WriterRP.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/storage/Entry.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/storage/EntryResult.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/storage/SharedDatabase.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/writerPriority/ReaderWP.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/writerPriority/WriterWP.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/writerPriority2/ReaderWP2.java
+/Users/madalinamarcu/Downloads/APD-2024/teme/tema1b/src/main/java/org/apd/writerPriority2/WriterWP2.java
