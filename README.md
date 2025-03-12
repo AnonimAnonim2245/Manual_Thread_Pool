@@ -1,5 +1,4 @@
-# Descriere implementare
-Tema 1 APD - Luca Plian 332CA
+# Descriere implementare Tema 1 APD - Luca Plian 332CA
 
 ## Voi descrie prima data, implementarea threadpool-ului.
 Prima data, am incercat sa creez threadpoolul propriul zis, am luat o structura ConcurrencyQueue pentru task-uri
